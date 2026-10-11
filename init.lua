@@ -745,6 +745,13 @@ do
     -- rust_analyzer = {},
 
     stylua = {}, -- Used to format Lua code
+    azure_pipelines_ls = {},
+    bashls = {},
+    black = {},
+    prettier = {},
+    yamlls = {},
+    ansiblels = {},
+    terraformls = {},
 
     -- Special Lua Config, as recommended by neovim help docs
     lua_ls = {
